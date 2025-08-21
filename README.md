@@ -44,13 +44,11 @@ $$
 $$
 
 とすると、
-
 $$
 f(\mathbf{x}) = \frac{\lambda_2}{2}\|\mathbf{Mx}\|_2^2,
 \quad g(\mathbf{x}) = \iota_{B_{2,\varepsilon}}(\mathbf{d}) + \lambda_1\|\mathbf{a}\|_1,
 \quad h(\mathbf{Ax}) = \|\mathbf{d}\|_1
 $$
-
 の形に書き換えられます。ここで $\mathbf{A} = [\mathbf{I}, 0]$ です。
 
 勾配は
