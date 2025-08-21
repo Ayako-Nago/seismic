@@ -59,10 +59,9 @@ $$
 $$
 
 ## 実装ファイル
-
-* `CRST.py`: Radon2Dを用いた雑音データに対する PDS 法の基本実装
 * `radon_proposed.py`: 提案手法（$\ell_1$-$\ell_1$-$\ell_2$ 定式化＋制約）の完全版。PSNR, SNR, CC, RMSE を計算
-* `SRT.py`: ISTA に基づく Radon Sparse Reconstruction（Semblance weightingあり）
+* `CRST.py`: 比較手法１
+* `SRT.py`:比較手法２、３
 * `README.md`: 本ファイル（理論と実装の対応関係を記載）
 
 ## 依存関係
