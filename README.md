@@ -75,9 +75,7 @@ $$
 ## 実行例
 
 ```bash
-python CRST.py
 python radon_proposed.py
-python SRT.py
 ```
 
-各スクリプトの実行により、雑音データ・復元データ・Radonドメインの可視化および定量評価が出力されます。
+スクリプトの実行により、雑音データ・復元データ・Radonドメインの可視化および定量評価が出力されます。
